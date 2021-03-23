@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Dynamics CRM 获取用户所有安全角色</title>
+      <link href="2021/03/23/Dynamics-CRM-%E8%8E%B7%E5%8F%96%E7%94%A8%E6%88%B7%E6%89%80%E6%9C%89%E5%AE%89%E5%85%A8%E8%A7%92%E8%89%B2/"/>
+      <url>2021/03/23/Dynamics-CRM-%E8%8E%B7%E5%8F%96%E7%94%A8%E6%88%B7%E6%89%80%E6%9C%89%E5%AE%89%E5%85%A8%E8%A7%92%E8%89%B2/</url>
+      
+        <content type="html"><![CDATA[<p>1.Go to Settings –&gt; Security –&gt; Users<br>2.选择好自己需要的视图<br>3.点击Run Report（运行报表），选择User Summary，选择导出当前页面所有用户的记录，等待片刻即可</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> DynamicsCRM </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>月下独酌</title>
       <link href="2021/03/22/Hello/"/>
       <url>2021/03/22/Hello/</url>
