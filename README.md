@@ -1,0 +1,2 @@
+# rickeygong.github.io
+blogs
